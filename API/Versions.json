@@ -1,9 +1,12 @@
 {
+   "GitHub":"https://github.com/BowenHiggins/Status",
+   "Discord":"Anonymous",
    "Avatar":"https://cdn.discordapp.com/attachments/1158483550564253786/1212833394665201735/image_prev_ui.png",
    "2.02":{
       "Update":false
    },
    "2.01":{
       "Update":false,
+      "Credits":"Anonymous"
    }
 }
